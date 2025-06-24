@@ -1,1 +1,4 @@
 # ExamenOrdinario
+## El primer ejercicio muestra como un proyecto de vue puede convertirse en un contador funcional, capaz de incrementar y decrementar.
+## El segundo ejercicio es un pequeño formulario que pide forzosamente tres requisitos clave ("nombre", "email" y "edad"), donde la edad esta limitada entre 18 y 99, ademas cuando se intenta mandar el formulario se validad que cumpla con los requisitos propuestos. 
+## El tercer ejercicio muestra un mensaje dependiendo la ruta a la que se acceda, donde la ruta básica ("/") muestra un mensaje de bienvenida y la ruta ("/api") muestra un mensaje en ese formato.
